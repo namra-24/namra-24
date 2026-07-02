@@ -53,7 +53,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/namra-naeem-100929323/)">
+<a href="https://www.linkedin.com/in/namra-naeem-100929323/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
