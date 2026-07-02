@@ -1,16 +1,16 @@
-\<h1 align="center">Hi 👋, I'm Namra</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Student | Aspiring Full Stack Developer | AI Enthusiast
-</h3>
+# Hi 👋, I'm Namra
 
-<p align="center">
+### Computer Science Student | Aspiring Full Stack Developer | AI Enthusiast
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Learning+Full+Stack+Development;Exploring+Artificial+Intelligence;Always+Learning+Something+New!" />
-</p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
 
 ---
 
@@ -29,7 +29,6 @@ Computer Science Student | Aspiring Full Stack Developer | AI Enthusiast
 - 🤝 Interested in contributing to Open Source projects in the future.
 - 💬 Ask me about **Python, Java, C++, HTML, CSS, JavaScript, or Git.**
 - 🎯 Goal: Become a skilled Software Engineer and build impactful applications.
-- ⚡ Fun Fact: I enjoy turning ideas into real projects—one commit at a time.
 
 </td>
 
@@ -79,6 +78,7 @@ Computer Science Student | Aspiring Full Stack Developer | AI Enthusiast
 <img src="https://skillicons.dev/icons?i=vscode"/>
 
 <!-- Add these as you learn -->
+
 <img src="https://skillicons.dev/icons?i=react"/>
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 <img src="https://skillicons.dev/icons?i=express"/>
@@ -119,45 +119,11 @@ Hands-on MERN stack projects focused on solving real-world problems.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=2&column=4"/>
 
 </p>
 
@@ -169,10 +135,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_
 
 ---
 
-<p align="center">
+<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
 *"Learning, Building, and Growing — one commit at a time."*
 
-</p>
+</div>
