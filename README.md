@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=namra-24&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
@@ -83,6 +83,33 @@
 <img src="https://skillicons.dev/icons?i=express"/>
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 <img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<!-- Deployment -->
+<img src="https://skillicons.dev/icons?i=vercel"/>
+<img src="https://skillicons.dev/icons?i=netlify"/>
+
+<!-- Power BI -->
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<!-- Microsoft Excel -->
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<!-- NumPy -->
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<!-- Pandas -->
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<!-- Matplotlib -->
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<!-- Artificial Intelligence -->
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge"/>
+
+<!-- Machine Learning -->
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
 
 </p>
 
