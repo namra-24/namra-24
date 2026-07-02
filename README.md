@@ -130,7 +130,7 @@
 # 📂 Featured Projects
 
 ### 🌟 Portfolio Website
-🔗 https://resume-namra.vercel.app/#contact
+🔗 https://resume-namra.vercel.app/
 
 A personal portfolio showcasing my skills, projects, and achievements.
 
