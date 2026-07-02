@@ -49,11 +49,11 @@
 
 <p align="left">
 
-<a href="https://github.com/namra-24">
+<a href="[https://github.com/namra-24](https://github.com/namra-24)">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/namra-naeem-100929323/)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -80,7 +80,6 @@
 <img src="https://skillicons.dev/icons?i=vscode"/>
 <img src="https://skillicons.dev/icons?i=react"/>
 <img src="https://skillicons.dev/icons?i=nodejs"/>
-<img src="https://skillicons.dev/icons?i=express"/>
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 <img src="https://skillicons.dev/icons?i=tailwind"/>
