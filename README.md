@@ -23,12 +23,14 @@
 
 - 🎓 Computer Science student passionate about technology and problem solving.
 - 💻 Currently learning **Full Stack Web Development, Data Structures & Algorithms, and AI.**
-- 🌱 Exploring **React, Node.js, Express.js, MongoDB, and Machine Learning.**
-- 🚀 Building projects to strengthen my programming and development skills.
+- 🚀 I recently built **StudySphere AI**, an AI-powered study platform that turns any uploaded PDF into interactive learning tools—chat with your notes, AI-generated summaries, flashcards, and customizable quizzes powered by Google Gemini.
+- 🎨 I also designed and developed my **personal portfolio website** with interactive UI and animations.
+- 🌱 Currently exploring **UI animations, advanced frontend development, and Machine Learning.**
 - 📚 Always curious about learning new technologies and improving my coding skills.
 - 🤝 Interested in contributing to Open Source projects in the future.
 - 💬 Ask me about **Python, Java, C++, HTML, CSS, JavaScript, or Git.**
 - 🎯 Goal: Become a skilled Software Engineer and build impactful applications.
+- 📫 How to reach me: **namranaeem24@gmail.com**
 
 </td>
 
@@ -47,7 +49,7 @@
 
 <p align="left">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/namra-24">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -55,7 +57,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:namranaeem24@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -76,9 +78,6 @@
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
-
-<!-- Add these as you learn -->
-
 <img src="https://skillicons.dev/icons?i=react"/>
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 <img src="https://skillicons.dev/icons?i=express"/>
@@ -101,21 +100,38 @@
 
 # 📂 Featured Projects
 
-### 🌟 Portfolio Website *(Coming Soon)*
+### 🌟 Portfolio Website
+🔗 https://resume-namra.vercel.app/#contact
 
 A personal portfolio showcasing my skills, projects, and achievements.
 
 ---
 
-### 🌟 AI & Python Projects *(Coming Soon)*
+### 🤖 StudySphere AI
+🔗 https://my-study-sphere.netlify.app/
 
-A collection of beginner-to-intermediate Python and AI projects.
+Built an AI-powered study platform that turns any uploaded PDF into interactive learning tools—chat with your notes, AI-generated summaries, flashcards, and customizable quizzes powered by Google Gemini.
 
 ---
 
-### 🌟 Full Stack Web Applications *(Coming Soon)*
+### 🌱 Habit Harvest – Habit Tracking Website
+🔗 https://habit-harvest-habit-tracking-websit.vercel.app/
 
-Hands-on MERN stack projects focused on solving real-world problems.
+Developed a habit tracking website that helps users build consistency, monitor progress, and maintain productive daily routines through an intuitive and user-friendly interface.
+
+---
+
+### 🎮 KBC Quiz Game
+🔗 https://github.com/namra-24/KBC-Quiz-Game
+
+Designed a quiz application with game logic, score tracking, and audio feedback for correct and incorrect answers.
+
+---
+
+### 🗂 Student Information Management System
+🔗 https://github.com/namra-24/Student-Information-Management-System
+
+Developed an application to efficiently manage student data and academic records.
 
 ---
 
@@ -123,7 +139,7 @@ Hands-on MERN stack projects focused on solving real-world problems.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=namra-24&theme=tokyonight"/>
 
 </p>
 
