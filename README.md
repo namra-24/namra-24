@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# Hi 👋, I'm Namra
+# Hey! 👋, I'm Namra
 
 ### Computer Science Student | Aspiring Full Stack Developer | AI Enthusiast
 
