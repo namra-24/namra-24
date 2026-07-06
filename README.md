@@ -27,6 +27,7 @@
 - 🎓 Computer Science student passionate about technology and problem solving.
 - 💻 Currently learning **Full Stack Web Development, Data Structures & Algorithms, and AI.**
 - 🚀 I recently built **StudySphere AI**, an AI-powered study platform that turns any uploaded PDF into interactive learning tools—chat with your notes, AI-generated summaries, flashcards, and customizable quizzes powered by Google Gemini.
+- 🌙 I also built **Future Me**, a full-stack digital journal with mood tracking, scrapbook-style stickers, and letters you seal today and unlock on a future date-built with React, TypeScript, and Supabase.
 - 🎨 I also designed and developed my **personal portfolio website** with interactive UI and animations.
 - 🌱 Currently exploring **UI animations, advanced frontend development, and Machine Learning.**
 - 📚 Always curious about learning new technologies and improving my coding skills.
