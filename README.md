@@ -172,16 +172,6 @@ Developed an application to efficiently manage student data and academic records
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=namra-24&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 💭 A Little About Me
 
 > I enjoy learning by building. Whether it's solving coding problems, experimenting with new technologies, or creating projects from scratch, I'm always looking for opportunities to grow as a developer. Every project teaches me something new, and I'm excited about the journey ahead.
