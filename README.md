@@ -146,6 +146,7 @@ Built an AI-powered study platform that turns any uploaded PDF into interactive 
 
 ### 🌙 Future Me
 🔗 https://namra-24.github.io/Future-me/
+
 A full-stack digital journal with mood tracking, scrapbook-style stickers, and letters you seal today and unlock on a future date of your choosing.
 
 ---
